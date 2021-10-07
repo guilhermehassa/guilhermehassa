@@ -1,7 +1,6 @@
 # Olá, sou Guilherme Hassã 🤝🏻
 
-Atualmente focado em aprender HTML, CSS e Javascript, estudando e aplicando o conhecimento em diversos projetos.
-Motivado em entregar soluções que melhorem e simplifiquem o uso de aplicações.
+Desenvolvedor Front-End, motivado em entregar soluções que melhorem e simplifiquem o uso de aplicações.
 
 <a href="https://www.linkedin.com/in/guilhermehassa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 <a href="https://www.instagram.com/guilhermehassa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a>
@@ -13,37 +12,37 @@ Motivado em entregar soluções que melhorem e simplifiquem o uso de aplicaçõe
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15" />
-    <b> HTML 5</b> - <i>Intermediário</i>
+    <b> HTML 5</b>
     <p>Estrutura de elementos, tags semanticas,  método BEM, metas, estrutura de formulários.</p>
   </div>
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15" />
-    <b> CSS 3</b> - <i>Intermediário</i>
+    <b> CSS 3</b>
     <p>Reset/Normalize, Variaveis CSS, Layout responsivo, flexbox, grid layout.</p>
   </div>
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" />
-    <b> javascript</b> - <i>Básico</i>
+    <b> Javascript</b>
     <p>Manipular elementos em tela, ações com eventos de interação, e uso de funções.</p>
   </div>
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="15" />
-    <b> PHP</b> - <i>Básico</i>
+    <b> PHP</b>
     <p>Condições, loopings, funções, interação com banco de dados MySQL por meio do PHP.</p>
   </div>
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="15" />
-    <b> MySQL</b> - <i>Básico</i>
+    <b> MySQL</b>
     <p>Inserção, edição, exclusão de dados, conceito de chaves primárias.</p>
   </div>
 
   <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" />
-    <b> GIT</b> - <i>Básico</i>
+    <b> GIT</b>
     <p>Commits, versionar para códigos anteriores, repositórios remotos, branches, gerar releases.</p>
 </div>
   
