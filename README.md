@@ -1,19 +1,23 @@
-# Olá, sou Guilherme Hassã 🤝🏻
+# Guilherme Hassã · Frontend Developer
 
-Desenvolvedor Frontend com mais de 3 anos de experiência, atualmente no último ano do curso de Bacharelado em TI pela UNIVESP. Tenho experiência na criação de páginas web utilizando diversos frameworks e bibliotecas, com projetos que variam entre e-commerce, sites institucionais, portal de notícias e intranets.
+Desenvolvedor especializado em React, Next.js e WordPress. Crio soluções que equilibram performance, UX e escalabilidade — com experiência comprovada em projetos de e-commerce, landing pages e sistemas corporativos.
 
-<a href="https://www.linkedin.com/in/guilhermehassa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
-<a href="https://api.whatsapp.com/send?phone=5513981447414"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><a>
+[LinkedIn](https://linkedin.com/in/guilhermehassa) · [GitHub](https://github.com/guilhermehassa) · [Email](mailto:gui.hassa@hotmail.com)
 
-## 🛠️ Habilidades
-### 🌐 Wordpress 
-Experiência extensa na criação e edição de temas personalizados, utilizando plugins como ACF, Yoast, CF7, WooCommerce e WP Rocket para otimizar o desempenho e a funcionalidade das entregas.
+---
 
-### ⚙️ Bootstrap e Foundation Framework
-Uso frequente desses frameworks para acelerar o desenvolvimento e melhorar a qualidade das entregas.
+## 🛠️ Tecnologias
 
-### 🎨 SASS, TypeScript e jQuery
-Especialização nessas tecnologias, que facilitam a escrita de código mais complexo e eficiente.
+React · Next.js · WordPress · JavaScript · TypeScript · PHP · APIs REST · SASS · ACF · WooCommerce · Figma · Git
 
-### 🚀 React, NextJS e Angular
-Experiência prática em projetos utilizando essas tecnologias. Estudando e aperfeiçoando minhas habilidades nestas áreas.
+---
+
+## 🚀 Projetos em Destaque
+
+- **[Pátio Batel](https://patiobatel.com.br)** · WordPress com Foundation e PHP  
+- **[Paraná Banco Investimentos](https://paranabancoinvestimentos.com.br)** · Frontend com Next.js + styled-components  
+- **[HearBetter – Medel](https://hearbetter.medel.com)** · Projeto multilíngue com WPML + APIs customizadas  
+- **[ThorBikes](https://thorbikes.com.br)** · Catálogo de produtos via API do ERP Tiny  
+- **[Minha Tray](https://minhatray.tray.com.br)** · Plugin para e-commerce Tray
+
+---
